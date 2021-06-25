@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DemoAppleSignIn\DemoAppleSignIn.csproj">
-      <Project>{E8B237A3-0A60-4712-844D-A1A782490C52}</Project>
+      <Project>{AB13F542-4038-4514-BB2F-25B5726F5944}</Project>
       <Name>DemoAppleSignIn</Name>
     </ProjectReference>
   </ItemGroup>
